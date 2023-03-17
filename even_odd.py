@@ -6,3 +6,5 @@ if num % 2:
     print("It is odd number.  ")
 else: 
     print("It is even number. ")
+
+    
