@@ -9,3 +9,5 @@ for i in range(num):
      print("Division is:     ",num1 / num2)
      print("Remainder is:    ",num1 % num2)
      
+print("\nTHANK YOU.")
+
