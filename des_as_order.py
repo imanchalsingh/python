@@ -6,7 +6,10 @@ for i in range(num):
     numbers = int(input("Enter number: "))
 
     ls.append(numbers)
-    
-print("This is numbers in ascending order: " ,sorted(ls))
-print("This is numbers in descending order: ",reversed ,sorted(ls))
+
+ls.sort()  
+print("This is numbers in ascending order: " ,ls)
+
+ls.reverse()
+print("This is numbers in descending order: ",ls)
 

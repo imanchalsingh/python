@@ -7,4 +7,4 @@ if num % 2:
 else: 
     print("It is even number. ")
 
-    
+     
