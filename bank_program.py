@@ -5,6 +5,7 @@ ac=input("Enter your gmail id: ")
 num=input("Enter your mobile number: ")
 ac_no=input("Enter your account number(last 4 digit): ")
 print("\nCongratulations! Now your account connect our bank.")
+print("Your account number is: 00000000xxxx")
 print("\nGive us some more information for getting bank FD.")
 
 print("\nThis is the information of FD.")
