@@ -33,9 +33,9 @@ else:
     print("Thank you.")
 
 
-#Calculate the area of cube.(4 * (side)^2)
+#Calculate the area of cube.(6 * (side)^2)
 side3 = input("Enter your cube's side for find cube's area: ")
-cube_area = 4 * int(side3) * int(side3)
+cube_area = 6 * int(side3) * int(side3)
 print("It's area of cube:" ,cube_area)
 
 if cube_area == 0:
