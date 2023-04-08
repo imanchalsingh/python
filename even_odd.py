@@ -2,9 +2,10 @@
 num = input("Enter your number. ")
 num = int(num)
 
-if num % 2:
-    print("It is odd number.  ")
+if num % 2 == 0:
+    print("It is even number.  ")
 else: 
-    print("It is even number. ")
+    print("It is odd number. ")
+
 
      
