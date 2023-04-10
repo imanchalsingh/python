@@ -8,8 +8,8 @@ print("\nCongratulations! Now your account connect our bank.")
 
 import random
 
-random_number = random.randint(1, 100)
-print(random_number)
+random_number = random.randint(1000, 9999)
+print("This is your account number: " ,random_number)
 
 print("\nThis is the information of FD.")
 print("For 1 year == Benefit 5%")
