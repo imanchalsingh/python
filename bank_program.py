@@ -6,9 +6,9 @@ num=input("Enter your mobile number: ")
 ac_no=input("Enter your account number(last 4 digit): ")
 print("\nCongratulations! Now your account connect our bank.")
 
-import random
-x=random.randint(10000000000000,99999999999999)
-print("\nGive us some more information for getting bank FD.")
+# import random
+# x=random.randint(10000000000000,99999999999999)
+# print("\nGive us some more information for getting bank FD.")
 
 print("\nThis is the information of FD.")
 print("For 1 year == Benefit 5%")
