@@ -30,7 +30,7 @@ print("it's area of circle:" ,radius_area)
 if radius_area == 0:
     print("Invalid!")
 else:
-    print("Thank you.")
+    print("Thank you.\n")
 
 
 #Calculate the area of cube.(6 * (side)^2)
@@ -41,7 +41,7 @@ print("It's area of cube:" ,cube_area)
 if cube_area == 0:
     print("Invalid!")
 else:
-    print("Thanks for using.")
+    print("Thanks for using.\n")
 
 
 #Calculate the perimeter of circle.(2*pi*radius)
